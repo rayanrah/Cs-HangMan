@@ -1,0 +1,15 @@
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\bin\Debug\net8.0\hangMan.exe
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\bin\Debug\net8.0\hangMan.deps.json
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\bin\Debug\net8.0\hangMan.runtimeconfig.json
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\bin\Debug\net8.0\hangMan.dll
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\bin\Debug\net8.0\hangMan.pdb
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\obj\Debug\net8.0\hangMan.GeneratedMSBuildEditorConfig.editorconfig
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\obj\Debug\net8.0\hangMan.AssemblyInfoInputs.cache
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\obj\Debug\net8.0\hangMan.AssemblyInfo.cs
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\obj\Debug\net8.0\hangMan.csproj.CoreCompileInputs.cache
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\obj\Debug\net8.0\hangMan.sourcelink.json
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\obj\Debug\net8.0\hangMan.dll
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\obj\Debug\net8.0\refint\hangMan.dll
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\obj\Debug\net8.0\hangMan.pdb
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\obj\Debug\net8.0\hangMan.genruntimeconfig.cache
+D:\.dotnet Training\git-workshop\Cs-HangMan\hangMan\obj\Debug\net8.0\ref\hangMan.dll
