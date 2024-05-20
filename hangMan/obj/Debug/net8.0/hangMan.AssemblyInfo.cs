@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("hangMan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90d411069b60cd8dde61cd475d638bb9679ab157")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+768808424fb17ac71e72a0940854c23dd23ad31e")]
 [assembly: System.Reflection.AssemblyProductAttribute("hangMan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("hangMan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
